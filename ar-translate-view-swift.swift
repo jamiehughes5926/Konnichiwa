@@ -131,7 +131,7 @@ class CameraViewController: UIViewController, AVCaptureVideoDataOutputSampleBuff
         _isAnalyzing = isAnalyzing
         _analysisResult = analysisResult
         _showAnalysisPopup = showAnalysisPopup
-        openAIService = OpenAIServiceFactory.service(apiKey: "sk-proj-LZ82kXwxOKn4aShgMyHiT3BlbkFJAhU7UOOtwEYhZ6XSzYmV")
+        openAIService = OpenAIServiceFactory.service(apiKey: "")
         super.init(nibName: nil, bundle: nil)
     }
     
