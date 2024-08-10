@@ -1,0 +1,2 @@
+# Konnichiwa-App
+# Konnichiwa
